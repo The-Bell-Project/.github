@@ -1,6 +1,7 @@
 # The Bell Project
 
-<img width="1448" height="830" alt="img_1" src="https://github.com/user-attachments/assets/b69b338f-88fd-412e-a804-bba62fe62238" />
+<img width="1448" height="830" alt="img_1" src="https://github.com/user-attachments/assets/b69b338f-88fd-412e-a804-bba62fe62238" /><br><br>
+
 The Bell Project is a non-profit newsroom investigating torture in the American criminal justice system. No other media organization tracks these extreme abuses on a national scale. Our reporting will expose the extent of this issue and its underlying causes for the first time.<br><br>
 
 
